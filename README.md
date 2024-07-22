@@ -2,4 +2,4 @@
 
 * I'm currently learning to code the next walkable city 🏢
 
-* Connect with me on X or LinkedIn to start building together 👨🏻‍💻
+* Connect with me on [X](https://twitter.com/henrycancode) or [LinkedIn](https://www.linkedin.com/in/henrystromberg/) to start building together 👨🏻‍💻
